@@ -1,0 +1,70 @@
+8
+
+dir
+75
+svn://wna.gr/wind-wna-gr/includes/pages
+svn://wna.gr
+
+
+
+2012-03-10T11:43:41.228717Z
+74
+stargazer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6adf64f1-307c-0410-b581-86b70a0c669d
+
+ranges
+dir
+
+users
+dir
+
+startup
+dir
+
+dnszones
+dir
+
+services
+dir
+
+gmap
+dir
+
+search
+dir
+
+admin
+dir
+
+nodes
+dir
+
+hostmaster
+dir
+
+gearth
+dir
+
+pickup
+dir
+
+communities
+dir
+
+mynodes
+dir
+

@@ -1,0 +1,52 @@
+8
+
+dir
+75
+svn://wna.gr/wind-wna-gr/templates/basic/includes/pages/users
+svn://wna.gr
+
+
+
+2012-01-06T12:11:39.716867Z
+34
+stargazer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6adf64f1-307c-0410-b581-86b70a0c669d
+
+users.tpl
+file
+
+
+
+
+2012-01-08T10:35:07.000000Z
+f1dbcd0e3f41214041090f07a841f33e
+2012-01-06T12:11:39.716867Z
+34
+stargazer
+
+users_restore.tpl
+file
+
+
+
+
+2012-01-08T10:35:07.000000Z
+7930d4fe120b1e39d9648dd83148d96d
+2012-01-06T12:11:39.716867Z
+34
+stargazer
+

@@ -1,0 +1,40 @@
+8
+
+dir
+75
+svn://wna.gr/wind-wna-gr/templates/basic/includes/pages/dnszones
+svn://wna.gr
+
+
+
+2012-01-06T12:11:39.716867Z
+34
+stargazer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6adf64f1-307c-0410-b581-86b70a0c669d
+
+dnszones.tpl
+file
+
+
+
+
+2012-01-08T10:35:07.000000Z
+4a730a4eab42fbe2229648875873e8d2
+2012-01-06T12:11:39.716867Z
+34
+stargazer
+
